@@ -1,4 +1,0 @@
-Income tax, made up of:
-normal corporate tax: at 25%. Certain sectors like hydropower are taxed at concessional rate of 20% and other sectors like banking are taxed at 30% (section 2(4), Schedule 1, Income Tax Act 2002 (ITA)));
-dividend: at 5% (section 88 (2) (a), ITA); and 
-capital gains (for the gain from the disposition of the shares of non-listed company) are subject to withholding tax at 10% for a natural person and at 15% for others (section 95A, ITA).
